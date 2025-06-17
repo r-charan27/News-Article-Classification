@@ -46,6 +46,8 @@ Fake_News_Report.docx – project report
 
 📌 Dataset
 Dataset used: Fake and Real News Dataset - Kaggle
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=True.csv
 
 🎓 Internship Project
 Created for Elevate Labs Internship by Ramcharan Mummadi.
